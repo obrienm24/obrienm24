@@ -1,4 +1,5 @@
 ### Hi there 👋
+![image](https://user-images.githubusercontent.com/129077795/228318255-872daafe-77b3-44b3-b2c2-ce2e94107e3d.png)
 
 <!--- 🔭 I’m currently working on pixel art
 - 🌱 I’m currently learning computer programming
